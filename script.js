@@ -16,3 +16,5 @@ console.log(q3)
 let q4 = document.querySelector('h2[id="four]')
 console.log(q4)
 
+
+
